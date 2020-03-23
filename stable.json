@@ -6,12 +6,12 @@
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-uninstaller-20200323.zip"
   },
   "magisk": {
     "version": "20.4-b39f4075",
     "versionCode": "20302",
-    "link": "https://github.com/njtony11/magisk_files/releases/download/7.5.2_b39f4075/Magisk_v20.4_b39f4075_20302.zip",
+    "link": "https://github.com/njtony11/magisk_files/releases/download/20.4/Magisk-v20.4.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
     "md5": "00fd136b06672e9bce5ab55b0943e8a2"
   },
